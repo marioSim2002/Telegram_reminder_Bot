@@ -1,5 +1,6 @@
 # Telegram reminder Bot
-ReminderBot is a Telegram bot designed to help users set reminders for their tasks.
+ReminderBot is a Telegram bot designed to help users set reminders for their tasks. 
+
 
 **Features**
 * Set reminders for specific tasks and timings.
@@ -16,3 +17,5 @@ ReminderBot is a Telegram bot designed to help users set reminders for their tas
 * /reminder <task> <timing>: Set a reminder for a specific task and timing.
 **Example**
 To set a reminder to Buy groceries today at 10:00 AM, send "/reminder Buy groceries today at 10:00 AM" to the bot.
+
+*© copyrights preserved to Mario Simaan*
