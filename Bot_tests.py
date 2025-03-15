@@ -8,7 +8,7 @@ from main_bot import ReminderBot as task_bot
 class TestReminderBot(unittest.TestCase):
 
     def setUp(self):
-        self.bot = task_bot("6378396356:AAH2_xlsgS7vSXyv9lG3aJd2eCIqRglfD8M")
+        self.bot = task_bot('6378396356:AAH2_xlsgS7vSXyv9lG3aJd2eCIqRglfD8M')
         self.chat_id = 123456789
         self.task = "Buy groceries"
         self.timing = "today at 10:00 AM"
