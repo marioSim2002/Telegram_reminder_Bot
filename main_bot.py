@@ -141,7 +141,7 @@ class ReminderBot:
             )
             return
 
-        # Calculate how long we wait until sending the reminder
+        # calc how long we wait until sending the reminder
         delay = (reminder_time - datetime.now()).total_seconds()
         print(f"Reminder for {chat_id}: Waiting {delay} seconds.")
 
